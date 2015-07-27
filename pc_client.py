@@ -17,7 +17,7 @@ except socket.error, msg:
 print 'Socket is created.'
 
 # connect to host by remote_ip and port
-host = '127.0.0.1' # put IP address of raspberry pi as a host (you can find if by using command: ipconfig)
+host = '192.168.137.16' # put IP address of raspberry pi as a host (you can find if by using command: ipconfig)
 port = 12345
 
 #Connect to remote server
