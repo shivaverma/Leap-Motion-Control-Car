@@ -1,6 +1,6 @@
 # LCcar-Leap-Control-Car
 
-Blog Post : 
+Tutorial Blog Post : 
 
 Video : 
 
