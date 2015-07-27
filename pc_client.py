@@ -3,7 +3,7 @@
 # Import socket module
 import socket # for socket programming functions               
 import sys # for exit
-import Leap, sys, thread, time
+import Leap
 
 # Create a socket object
 # Address Family : AF_INET (this is IP version 4 or IPv4)
