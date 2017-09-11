@@ -14,7 +14,7 @@ pin no. -> action
 33      = Left
 '''
 
-# to setup this pins 
+# to setup these pins 
 gpio.setmode(gpio.BOARD)
 gpio.setup(37,gpio.OUT)
 gpio.setup(29,gpio.OUT)
@@ -22,7 +22,7 @@ gpio.setup(31,gpio.OUT)
 gpio.setup(32,gpio.OUT)
 gpio.setup(33,gpio.OUT)
 
-# to initialize these pins as off
+# to initialize these pins to off
 gpio.output(37, False)
 gpio.output(29, False)
 gpio.output(31, False)
