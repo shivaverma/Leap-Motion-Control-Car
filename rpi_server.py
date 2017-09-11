@@ -14,7 +14,7 @@ pin no. -> action
 33      = Left
 '''
 
-# to senup this pins 
+# to setup this pins 
 gpio.setmode(gpio.BOARD)
 gpio.setup(37,gpio.OUT)
 gpio.setup(29,gpio.OUT)
